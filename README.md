@@ -1,4 +1,5 @@
 # portifolio
+
 Portifólio pessoal CV
 
 ## Tarefas
@@ -7,7 +8,7 @@ Portifólio pessoal CV
 
  ## Icones
 
- :package: nova funcionalidade
- :up: atualização
- :beatle: correção de bug
- :checkered_flag: release 
+ -  :package: nova funcionalidade
+ -  :up: atualização
+ -  :beetle: correção de bug
+ -  :checkered_flag: release 
